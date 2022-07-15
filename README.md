@@ -1,6 +1,6 @@
 ## Skills:
 - :revolving_hearts: C++
-- :feelsgood: C#
+- :heart: C#
 - :shit: ~~Python~~
 
 ## Contact:
