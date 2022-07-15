@@ -1,7 +1,7 @@
 ## Skills:
-- :feelsgood: C++
+- :revolving_hearts: C++
 - :feelsgood: C#
-- :feelsgood: ~~Python~~
+- :shit: ~~Python~~
 
 ## Contact:
 tg: [@I_DONT_WANT_TO_EXIST](https://t.me/I_DONT_WANT_TO_EXIST)
