@@ -1,7 +1,10 @@
 ## Skills:
-- :revolving_hearts: C++
-- :heart: C#, Unity
-- :shit: ~~Python~~
+:heart: Godot
+
+:revolving_hearts: Python
+
+:revolving_hearts: Typescript/React/Electron
+
 
 ## Contact:
 tg: [@I_DONT_WANT_TO_EXIST](https://t.me/I_DONT_WANT_TO_EXIST)
